@@ -1,5 +1,5 @@
 ---
-- name: Set Ip loopback
+- Name: Set Ip loopback
   hosts: all
   gather_fact: no
 
